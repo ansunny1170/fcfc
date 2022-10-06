@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-28T18:38:14.9723934+09:00"
+    description: A Helm chart for Kubernetes
+    digest: c5d6dcc1b60df7a15d488ee1aa9017485b4d1751c34c2a21065d0f3c4836aa3e
+    name: fc
+    type: application
+    urls:
+    - fc-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-28T18:38:14.9702124+09:00"
